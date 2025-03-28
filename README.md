@@ -19,7 +19,9 @@ This project not only strengthened my SQL expertise but also reinforced the powe
 
 ## About the data
 
-Full Sean Lahman's Baseball data is available at: [https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase](https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase). This project uses some tables from that dataset and is available as .sql file to use if you need to create that database and tables.
+Full Sean Lahman's Baseball data is available at: [https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase](https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase). 
+
+This project uses some tables from that dataset and is available as .sql file to use if you need to create that database and tables.
 
 ## Project Premise
 
