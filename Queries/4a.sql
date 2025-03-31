@@ -10,7 +10,7 @@ with mycte as(
 )
 
 -- alternatively use  instead of json_arrayagg json_arrayagg(nameGiven) instead of group_concat()
-select		
+select
 	birthDate, 
     group_concat(nameGiven separator ', ') as same_birthday_players, 
     count(nameGiven) as mycount
